@@ -83,6 +83,7 @@ call s:HL('@variable', s:default, s:back)
 call s:HL('@keyword.type', s:keyword)
 call s:HL('Directory', s:default)
 call s:HL('String', s:green)
+call s:HL('Visual', s:default, s:blue)
 
 " The column separating vertically split windows
 call s:HL('VertSplit', s:margin_active, s:margin)
