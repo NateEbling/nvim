@@ -1,3 +1,3 @@
 require("nate")
 
-vim.cmd.colorscheme('sitruuna')
+vim.cmd.colorscheme('hmh')
